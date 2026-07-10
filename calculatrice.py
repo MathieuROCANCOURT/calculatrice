@@ -8,3 +8,7 @@ def sub(a, b):
 
 def carre(a):
     return a ** 2
+
+
+def div(a, b):
+    return a / b
